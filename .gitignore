@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 secrets/*
+swag/*
 *.DS_Store
 .env
 
